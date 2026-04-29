@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "No changes yet, please use manual setup guide with the files on the USB."
+echo "Installer not implemented yet."
+echo "Please follow the manual setup guide on the USB."
